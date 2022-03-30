@@ -1,4 +1,4 @@
-<p align=center>  <strong> >_ Bonjour ! Bienvenue sur ma page GitHub !</strong> <p>
+<p align=center>  <strong>  Bonjour et bienvenue sur ma page GitHub !</strong> <p>
 
 <p align=center>
     <img src='https://readme-typing-svg.herokuapp.com?color=%23D069F7&size=24&duration=4200&center=true&width=222&height=42&lines=Leyna+BELGHERBI'>
@@ -40,7 +40,7 @@
   <a href="https://trello.com/"><img alt='Trello' src='https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white'/></a>
   </p>
 
-<p>  <strong> >Je suis ici aussi !< </strong> <p>
+<p>  <strong> Je suis ici aussi ! </strong> <p>
 <a href="https://www.linkedin.com/in/leyna-belgherbi-9a0b48187/"><img alt='LinkedIn' src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
 <img alt='Discord' src='https://img.shields.io/badge/jung(hashtag)0085-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white'/>
 

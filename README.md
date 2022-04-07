@@ -17,7 +17,7 @@
 🌙 Night      18 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.64%
 </p>
 
-  <p align="center">
+  <p >
     <img src="https://github-readme-streak-stats.herokuapp.com?user=jungbyoel&theme=shades-of-purple&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727&sideNums=BC2BFF" alt="GitHub Stats" /> <br/><br/>
   </p>
 </div>
